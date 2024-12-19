@@ -1,0 +1,4 @@
+python==3.8.18
+Flask==3.0.3
+requests==2.31.0
+metatrader5==5.0.4687
